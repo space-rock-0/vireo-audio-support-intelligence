@@ -111,7 +111,7 @@ Yes, four times. Three decisions came before any code. The fourth came after bas
 - The emerging-terms digest section (stopword noise).
 - A proposed DuckDB-to-stdlib rewrite (churn, no gain).
 
-**Screen recording :** []
+**Screen recording :** https://drive.google.com/file/d/17Lsk_o6IPmt9-kx2r_Ol9RFvQX_OuZIs/view?usp=sharing
 
 ## 9. Someone picks this up on Monday and you are unreachable. The three things they need to know.
 
@@ -121,7 +121,7 @@ Yes, four times. Three decisions came before any code. The fourth came after bas
 
 ## 10. Honest hours spent. One number.
 
-**4** 
+**3** 
 
 ## 12. GitHub Repo Link
 
