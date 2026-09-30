@@ -1,4 +1,4 @@
-2# vireo-support — Weekly Digest + Tier-1 Attendance Leaderboard
+# vireo-support — Weekly Digest + Tier-1 Attendance Leaderboard
 
 Small, reproducible, AI-assisted support analytics for Vireo Audio. Deterministic
 Python owns every number; a local rule/TF-IDF layer (and optionally Ollama)
