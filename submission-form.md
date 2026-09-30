@@ -92,7 +92,7 @@ Yes, four times. Three decisions came before any code. The fourth came after bas
 **In the product:** no paid AI and no model calls. Theme mapping is keyword rules plus local TF-IDF. Model bill: Rs 0.
 
 **To build it:** an AI coding agent (OpenCode with Muse Spark) under my direction, across 8 gated phases. I re-ran verification commands after each phase and did not trust the agent's reports. Stack: Python 3.12, DuckDB, scikit-learn, pytest.
-**Cost of build tooling:** "Rs 0 (free tier)
+**Cost of build tooling:** Rs 0 (free tier).
 
 **Where it helped**
 - Normalising themes: the "Other" bucket went from 1,691 tickets to 67.
@@ -124,4 +124,6 @@ Yes, four times. Three decisions came before any code. The fourth came after bas
 **4** 
 
 ## 12. GitHub Repo Link
+
+https://github.com/space-rock-0/vireo-audio-support-intelligence
 
