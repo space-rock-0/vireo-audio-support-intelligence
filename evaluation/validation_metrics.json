@@ -1,0 +1,119 @@
+{
+ "reviewer": "agent-reviewer-v1 (single; strict written rules; see report.md limitations)",
+ "theme": {
+  "n": 41,
+  "agree": 31,
+  "accuracy": 0.756,
+  "by_method": {
+   "taxonomy": {
+    "n": 30,
+    "agree": 24,
+    "accuracy": 0.8
+   },
+   "rule": {
+    "n": 10,
+    "agree": 7,
+    "accuracy": 0.7
+   },
+   "rule-fallback": {
+    "n": 1,
+    "agree": 0,
+    "accuracy": 0.0
+   }
+  },
+  "errors": [
+   {
+    "id": "TH-TK-245392",
+    "pred": "Account & Help",
+    "human": "Billing & Payments",
+    "note": "invoice/GST regen is billing-domain action, not account access"
+   },
+   {
+    "id": "TH-TK-242757",
+    "pred": "App & Firmware",
+    "human": "Charging & Battery",
+    "note": "primary symptom battery drain; fw push was the attempted fix"
+   },
+   {
+    "id": "TH-TK-241840",
+    "pred": "Charging & Battery",
+    "human": "App & Firmware",
+    "note": "progress-bar hang is fw-update-stuck, not battery charging"
+   },
+   {
+    "id": "TH-TK-254652",
+    "pred": "Charging & Battery",
+    "human": "App & Firmware",
+    "note": "spinning-circle brick, replacement raised as bricked"
+   },
+   {
+    "id": "TH-TK-252014",
+    "pred": "Connectivity & Pairing",
+    "human": "Product Enquiry",
+    "note": "pre-sales connect-two-together query; agent shared specs (adjudication note)"
+   },
+   {
+    "id": "TH-TK-248394",
+    "pred": "Delivery & Shipping",
+    "human": "Returns & Refunds",
+    "note": "cancellation + refund initiated"
+   },
+   {
+    "id": "TH-TK-246439",
+    "pred": "Other / Unclassified",
+    "human": "Product Enquiry",
+    "note": "pre-sales connect-two query per adjudication note"
+   },
+   {
+    "id": "TH-TK-243566",
+    "pred": "Returns & Refunds",
+    "human": "Billing & Payments",
+    "note": "failed-payment-no-order, DUP-PAYMENT class; refund issued"
+   },
+   {
+    "id": "TH-TK-248223",
+    "pred": "Warranty & Repair",
+    "human": "Charging & Battery",
+    "note": "case-not-charging resolved by cleaning; no warranty claim/RMA"
+   },
+   {
+    "id": "TH-TK-244986",
+    "pred": "Warranty & Repair",
+    "human": "Delivery & Shipping",
+    "note": "transit damage + courier damage claim"
+   }
+  ]
+ },
+ "repeat": {
+  "n": 30,
+  "tp": 9,
+  "fp": 6,
+  "fn": 1,
+  "tn": 14,
+  "precision": 0.6,
+  "recall": 0.9,
+  "f1": 0.72,
+  "fp_examples": [
+   "RP-TK-249673",
+   "RP-TK-252676",
+   "RP-TK-250274",
+   "RP-TK-254890",
+   "RP-TK-248015",
+   "RP-TK-242037"
+  ],
+  "fn_examples": [
+   "RP-TK-246305"
+  ]
+ },
+ "refund": {
+  "n": 8,
+  "same_ticket_confirmed": 4,
+  "same_order_violations": 0
+ },
+ "factuality": {
+  "checks": 25,
+  "errors": 0,
+  "error_rate": 0.0,
+  "failed": []
+ }
+}

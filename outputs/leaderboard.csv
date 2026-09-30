@@ -1,0 +1,27 @@
+agent_id,agent_name,team,shift,site,tickets_completed
+A3021,Pooja Dhillon,Email Frontline,Day,Bengaluru,11
+A3010,Om Varghese,Chat Frontline,Day,Indore,9
+A3016,Ayaan Pawar,Email Frontline,Night,Indore,8
+A3019,Kavya D'Souza,Email Frontline,Day,Bengaluru,8
+A3001,Shreya Kumar,Chat Frontline,Night,Indore,6
+A3017,Kabir Mathew,Email Frontline,Night,Indore,5
+A3018,Sukhwinder Bose,Email Frontline,Morning,Bengaluru,5
+A3002,Zoya Srivastava,Chat Frontline,Night,Indore,4
+A3003,Rohit Yadav,Chat Frontline,Night,Indore,4
+A3006,Tenzin Saxena,Chat Frontline,Morning,Bengaluru,4
+A3012,Rahul Sen,Chat Frontline,Morning,Bengaluru,4
+A3023,Farah George,Voice Frontline,Day,Indore,4
+A3004,Aishwarya Shinde,Chat Frontline,Morning,Bengaluru,3
+A3008,Manish Jain,Chat Frontline,Day,Indore,3
+A3014,Manpreet Iyer,Chat Frontline,Day,Bengaluru,3
+A3024,Mohammed Kaur,Voice Frontline,Day,Indore,3
+A3025,Riya Siddiqui,Voice Frontline,Day,Bengaluru,3
+A3011,Kavya Goyal,Chat Frontline,Morning,Bengaluru,2
+A3022,Yash Mittal,Email Frontline,Morning,Bengaluru,2
+A3026,Vihaan Dutta,Voice Frontline,Day,Bengaluru,2
+A3005,Sameer Menon,Chat Frontline,Day,Indore,1
+A3007,Shreya Dhillon,Chat Frontline,Day,Bengaluru,1
+A3009,Sameer Agarwal,Chat Frontline,Day,Bengaluru,1
+A3013,Ayaan Dutta,Chat Frontline,Day,Bengaluru,1
+A3015,Faisal Pereira,Chat Frontline,Day,Indore,1
+A3020,Ankit Ansari,Email Frontline,Morning,Bengaluru,1

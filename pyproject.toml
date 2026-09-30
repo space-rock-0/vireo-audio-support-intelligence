@@ -1,0 +1,9 @@
+[project]
+name = "vireo-support"
+version = "0.1.0"
+description = "Vireo Audio weekly support digest + Tier-1 attendance leaderboard (deterministic core)"
+requires-python = ">=3.10"
+dependencies = ["duckdb==1.5.6", "scikit-learn==1.9.1"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

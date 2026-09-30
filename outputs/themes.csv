@@ -1,0 +1,200 @@
+ticket_id,theme,confidence,method
+TK-254575,Delivery & Shipping,1.0,taxonomy
+TK-254577,Billing & Payments,1.0,taxonomy
+TK-254578,Audio Quality & Mic,1.0,taxonomy
+TK-254579,Returns & Refunds,1.0,taxonomy
+TK-254580,Delivery & Shipping,0.7,rule
+TK-254581,Product Enquiry,1.0,taxonomy
+TK-254582,Charging & Battery,1.0,taxonomy
+TK-254583,Connectivity & Pairing,1.0,taxonomy
+TK-254584,Billing & Payments,0.7,rule
+TK-254585,Charging & Battery,1.0,taxonomy
+TK-254587,App & Firmware,1.0,taxonomy
+TK-254588,App & Firmware,0.7,rule
+TK-254590,Delivery & Shipping,1.0,taxonomy
+TK-254591,Delivery & Shipping,1.0,taxonomy
+TK-254592,Account & Help,1.0,taxonomy
+TK-254593,Delivery & Shipping,1.0,taxonomy
+TK-254594,Billing & Payments,1.0,taxonomy
+TK-254595,Connectivity & Pairing,1.0,taxonomy
+TK-254596,Delivery & Shipping,1.0,taxonomy
+TK-254597,Delivery & Shipping,1.0,taxonomy
+TK-254598,Warranty & Repair,0.7,rule
+TK-254599,Audio Quality & Mic,0.7,rule
+TK-254601,Charging & Battery,1.0,taxonomy
+TK-254602,Returns & Refunds,1.0,taxonomy
+TK-254603,Connectivity & Pairing,1.0,taxonomy
+TK-254604,Delivery & Shipping,1.0,taxonomy
+TK-254605,App & Firmware,0.7,rule
+TK-254606,Returns & Refunds,1.0,taxonomy
+TK-254607,Returns & Refunds,1.0,taxonomy
+TK-254608,Returns & Refunds,1.0,taxonomy
+TK-254610,Billing & Payments,1.0,taxonomy
+TK-254611,Returns & Refunds,1.0,taxonomy
+TK-254612,Delivery & Shipping,0.7,rule
+TK-254613,Returns & Refunds,1.0,taxonomy
+TK-254614,Billing & Payments,1.0,taxonomy
+TK-254615,Audio Quality & Mic,1.0,taxonomy
+TK-254617,Charging & Battery,1.0,taxonomy
+TK-254619,Audio Quality & Mic,1.0,taxonomy
+TK-254620,Billing & Payments,1.0,taxonomy
+TK-254621,Warranty & Repair,0.7,rule
+TK-254623,Account & Help,1.0,taxonomy
+TK-254625,Warranty & Repair,1.0,taxonomy
+TK-254626,Returns & Refunds,1.0,taxonomy
+TK-254628,Product Enquiry,1.0,taxonomy
+TK-254630,Charging & Battery,1.0,taxonomy
+TK-254631,Delivery & Shipping,1.0,taxonomy
+TK-254632,Billing & Payments,0.7,rule
+TK-254633,Delivery & Shipping,1.0,taxonomy
+TK-254634,Delivery & Shipping,1.0,taxonomy
+TK-254636,App & Firmware,0.7,rule
+TK-254637,Product Enquiry,1.0,taxonomy
+TK-254639,Returns & Refunds,1.0,taxonomy
+TK-254640,Charging & Battery,1.0,taxonomy
+TK-254641,App & Firmware,1.0,taxonomy
+TK-254642,Connectivity & Pairing,1.0,taxonomy
+TK-254644,Delivery & Shipping,0.7,rule
+TK-254645,Connectivity & Pairing,1.0,taxonomy
+TK-254646,Billing & Payments,1.0,taxonomy
+TK-254647,Warranty & Repair,1.0,taxonomy
+TK-254648,Product Enquiry,1.0,taxonomy
+TK-254649,Billing & Payments,1.0,taxonomy
+TK-254651,Audio Quality & Mic,1.0,taxonomy
+TK-254652,Charging & Battery,1.0,taxonomy
+TK-254653,Audio Quality & Mic,1.0,taxonomy
+TK-254654,Returns & Refunds,1.0,taxonomy
+TK-254655,Charging & Battery,1.0,taxonomy
+TK-254656,Charging & Battery,1.0,taxonomy
+TK-254657,Connectivity & Pairing,1.0,taxonomy
+TK-254658,Returns & Refunds,1.0,taxonomy
+TK-254660,Charging & Battery,1.0,taxonomy
+TK-254661,Returns & Refunds,1.0,taxonomy
+TK-254662,Delivery & Shipping,1.0,taxonomy
+TK-254664,Connectivity & Pairing,1.0,taxonomy
+TK-254666,Returns & Refunds,1.0,taxonomy
+TK-254668,Audio Quality & Mic,1.0,taxonomy
+TK-254669,App & Firmware,1.0,taxonomy
+TK-254670,Charging & Battery,1.0,taxonomy
+TK-254672,Charging & Battery,1.0,taxonomy
+TK-254674,Charging & Battery,0.7,rule
+TK-254675,Billing & Payments,1.0,taxonomy
+TK-254676,App & Firmware,0.7,rule
+TK-254677,Delivery & Shipping,1.0,taxonomy
+TK-254678,Audio Quality & Mic,1.0,taxonomy
+TK-254679,Delivery & Shipping,1.0,taxonomy
+TK-254681,Delivery & Shipping,1.0,taxonomy
+TK-254682,Delivery & Shipping,1.0,taxonomy
+TK-254683,Billing & Payments,1.0,taxonomy
+TK-254684,Delivery & Shipping,1.0,taxonomy
+TK-254685,Delivery & Shipping,1.0,taxonomy
+TK-254686,Billing & Payments,0.7,rule
+TK-254687,Delivery & Shipping,0.7,rule
+TK-254689,Product Enquiry,1.0,taxonomy
+TK-254690,Delivery & Shipping,0.7,rule
+TK-254691,Delivery & Shipping,1.0,taxonomy
+TK-254692,App & Firmware,1.0,taxonomy
+TK-254694,Charging & Battery,1.0,taxonomy
+TK-254695,Product Enquiry,1.0,taxonomy
+TK-254696,Billing & Payments,1.0,taxonomy
+TK-254697,App & Firmware,1.0,taxonomy
+TK-254698,Connectivity & Pairing,1.0,taxonomy
+TK-254699,Billing & Payments,1.0,taxonomy
+TK-254700,Warranty & Repair,1.0,taxonomy
+TK-254701,Delivery & Shipping,1.0,taxonomy
+TK-254702,Product Enquiry,1.0,taxonomy
+TK-254703,Returns & Refunds,1.0,taxonomy
+TK-254704,Connectivity & Pairing,1.0,taxonomy
+TK-254705,Account & Help,1.0,taxonomy
+TK-254707,Warranty & Repair,0.7,rule
+TK-254708,Charging & Battery,1.0,taxonomy
+TK-254710,Audio Quality & Mic,1.0,taxonomy
+TK-254711,App & Firmware,1.0,taxonomy
+TK-254713,Audio Quality & Mic,1.0,taxonomy
+TK-254714,Warranty & Repair,0.7,rule
+TK-254715,Account & Help,0.7,rule
+TK-254716,Account & Help,1.0,taxonomy
+TK-254717,Charging & Battery,1.0,taxonomy
+TK-254718,Charging & Battery,1.0,taxonomy
+TK-254720,Charging & Battery,1.0,taxonomy
+TK-254721,Delivery & Shipping,1.0,taxonomy
+TK-254723,Connectivity & Pairing,1.0,taxonomy
+TK-254724,Returns & Refunds,1.0,taxonomy
+TK-254725,Account & Help,1.0,taxonomy
+TK-254726,Delivery & Shipping,1.0,taxonomy
+TK-254727,Returns & Refunds,1.0,taxonomy
+TK-254728,Connectivity & Pairing,1.0,taxonomy
+TK-254729,Product Enquiry,1.0,taxonomy
+TK-254730,Returns & Refunds,1.0,taxonomy
+TK-254731,Connectivity & Pairing,1.0,taxonomy
+TK-254733,Delivery & Shipping,1.0,taxonomy
+TK-254734,Returns & Refunds,1.0,taxonomy
+TK-254735,Delivery & Shipping,0.7,rule
+TK-254736,Billing & Payments,1.0,taxonomy
+TK-254737,Returns & Refunds,1.0,taxonomy
+TK-254739,App & Firmware,1.0,taxonomy
+TK-254740,Charging & Battery,1.0,taxonomy
+TK-254741,Delivery & Shipping,0.7,rule
+TK-254742,Connectivity & Pairing,1.0,taxonomy
+TK-254743,Delivery & Shipping,1.0,taxonomy
+TK-254745,Audio Quality & Mic,1.0,taxonomy
+TK-254746,Audio Quality & Mic,1.0,taxonomy
+TK-254747,Returns & Refunds,1.0,taxonomy
+TK-254748,Charging & Battery,1.0,taxonomy
+TK-254749,Audio Quality & Mic,1.0,taxonomy
+TK-254751,App & Firmware,1.0,taxonomy
+TK-254752,Connectivity & Pairing,1.0,taxonomy
+TK-254754,Delivery & Shipping,0.7,rule
+TK-254755,Delivery & Shipping,1.0,taxonomy
+TK-254757,Billing & Payments,1.0,taxonomy
+TK-254758,Charging & Battery,1.0,taxonomy
+TK-254759,Billing & Payments,1.0,taxonomy
+TK-254761,Charging & Battery,1.0,taxonomy
+TK-254763,Warranty & Repair,1.0,taxonomy
+TK-254764,Returns & Refunds,1.0,taxonomy
+TK-254766,Delivery & Shipping,1.0,taxonomy
+TK-254767,Charging & Battery,1.0,taxonomy
+TK-254769,Delivery & Shipping,1.0,taxonomy
+TK-254771,Delivery & Shipping,0.7,rule
+TK-254772,Billing & Payments,1.0,taxonomy
+TK-254774,Billing & Payments,1.0,taxonomy
+TK-254776,Product Enquiry,1.0,taxonomy
+TK-254777,Audio Quality & Mic,1.0,taxonomy
+TK-254778,Billing & Payments,1.0,taxonomy
+TK-254779,Warranty & Repair,1.0,taxonomy
+TK-254781,Delivery & Shipping,0.7,rule
+TK-254782,Product Enquiry,1.0,taxonomy
+TK-254783,Audio Quality & Mic,1.0,taxonomy
+TK-254784,Charging & Battery,1.0,taxonomy
+TK-254786,Delivery & Shipping,1.0,taxonomy
+TK-254787,Charging & Battery,1.0,taxonomy
+TK-254788,Charging & Battery,1.0,taxonomy
+TK-254789,Delivery & Shipping,1.0,taxonomy
+TK-254790,Connectivity & Pairing,1.0,taxonomy
+TK-254792,Charging & Battery,1.0,taxonomy
+TK-254794,Connectivity & Pairing,1.0,taxonomy
+TK-254796,Returns & Refunds,0.7,rule
+TK-254797,App & Firmware,1.0,taxonomy
+TK-254798,Account & Help,0.7,rule
+TK-254800,Billing & Payments,1.0,taxonomy
+TK-254801,App & Firmware,1.0,taxonomy
+TK-254802,App & Firmware,1.0,taxonomy
+TK-254803,Delivery & Shipping,1.0,taxonomy
+TK-254804,Connectivity & Pairing,1.0,taxonomy
+TK-254806,Connectivity & Pairing,1.0,taxonomy
+TK-254807,Returns & Refunds,1.0,taxonomy
+TK-254808,Returns & Refunds,1.0,taxonomy
+TK-254809,Other / Unclassified,0.3,rule-fallback
+TK-254811,Delivery & Shipping,1.0,taxonomy
+TK-254813,Delivery & Shipping,1.0,taxonomy
+TK-254815,Billing & Payments,1.0,taxonomy
+TK-254816,Charging & Battery,1.0,taxonomy
+TK-254818,Account & Help,1.0,taxonomy
+TK-254819,Charging & Battery,1.0,taxonomy
+TK-254821,Delivery & Shipping,1.0,taxonomy
+TK-254823,Connectivity & Pairing,1.0,taxonomy
+TK-254825,Delivery & Shipping,1.0,taxonomy
+TK-254826,Delivery & Shipping,0.7,rule
+TK-254828,Connectivity & Pairing,1.0,taxonomy
+TK-254829,Billing & Payments,1.0,taxonomy
+TK-254831,Delivery & Shipping,1.0,taxonomy

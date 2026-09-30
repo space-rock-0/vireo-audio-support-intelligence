@@ -1,0 +1,19 @@
+agent_id,agent_name,team,shift,site,tickets_completed
+A3037,Vivaan Sethi,Returns Desk,Day,Bengaluru,11
+A3031,Aishwarya Agarwal,Logistics,Day,Indore,10
+A3033,Diya Singh,Billing,Day,Bengaluru,10
+A3028,Tarun Pereira,Logistics,Morning,Bengaluru,9
+A3029,Geeta Rathore,Logistics,Day,Indore,8
+A3027,Rajat Saxena,Logistics,Morning,Indore,7
+A3036,Saanvi Saxena,Returns Desk,Morning,Bengaluru,7
+A3034,Manpreet Mukherjee,Billing,Morning,Indore,6
+A3032,Diya Malhotra,Billing,Morning,Bengaluru,5
+A3038,Pooja Patil,Returns Desk,Morning,Indore,5
+A3030,Gurpreet Kulkarni,Logistics,Morning,Bengaluru,3
+A3040,Sai Sharma,Escalations & Warranty,Day,Bengaluru,3
+A3041,Deepak Mathew,Escalations & Warranty,Morning,Indore,2
+A3042,Aishwarya Kaur,Escalations & Warranty,Morning,Bengaluru,2
+A3044,Meera Joshi,Escalations & Warranty,Day,Indore,2
+A3035,Mohammed Jadhav,Billing,Morning,Indore,1
+A3039,Vivaan Kulkarni,Escalations & Warranty,Morning,Indore,1
+A3043,Rahul Gupta,Escalations & Warranty,Morning,Bengaluru,1

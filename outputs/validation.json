@@ -1,0 +1,975 @@
+{
+ "duplicate_ticket_id_groups": 653,
+ "duplicate_extra_rows": 653,
+ "duplicate_cross_system_groups": 653,
+ "res_before_first_helpdesk": {
+  "n_resolved": 8329,
+  "violations": 0
+ },
+ "res_before_first_legacy_fd": {
+  "n_resolved": 2937,
+  "violations": 2045
+ },
+ "first_before_created": 0,
+ "status_timestamp_mismatch": 0,
+ "refund_negative": 0,
+ "refund_no_code": 0,
+ "refund_non_numeric": 0,
+ "same_ticket_refund_replacement": [
+  "TK-241405",
+  "TK-244372",
+  "TK-250483",
+  "TK-252411"
+ ],
+ "same_order_cross_ticket_pairs": [
+  {
+   "order": "VR880243",
+   "refund_tickets": [
+    "TK-241323"
+   ],
+   "replacement_tickets": [
+    "TK-241975",
+    "TK-242561"
+   ]
+  },
+  {
+   "order": "VR880347",
+   "refund_tickets": [
+    "TK-244560",
+    "TK-245132"
+   ],
+   "replacement_tickets": [
+    "TK-244010"
+   ]
+  },
+  {
+   "order": "VR880705",
+   "refund_tickets": [
+    "TK-250873",
+    "TK-251833"
+   ],
+   "replacement_tickets": [
+    "TK-251431"
+   ]
+  },
+  {
+   "order": "VR880710",
+   "refund_tickets": [
+    "TK-242022"
+   ],
+   "replacement_tickets": [
+    "TK-243161"
+   ]
+  },
+  {
+   "order": "VR880806",
+   "refund_tickets": [
+    "TK-250741"
+   ],
+   "replacement_tickets": [
+    "TK-252294"
+   ]
+  },
+  {
+   "order": "VR880811",
+   "refund_tickets": [
+    "TK-245724"
+   ],
+   "replacement_tickets": [
+    "TK-253050"
+   ]
+  },
+  {
+   "order": "VR880870",
+   "refund_tickets": [
+    "TK-246242"
+   ],
+   "replacement_tickets": [
+    "TK-246128"
+   ]
+  },
+  {
+   "order": "VR880906",
+   "refund_tickets": [
+    "TK-243801",
+    "TK-244706"
+   ],
+   "replacement_tickets": [
+    "TK-243278"
+   ]
+  },
+  {
+   "order": "VR881415",
+   "refund_tickets": [
+    "TK-245682",
+    "TK-245696",
+    "TK-248293"
+   ],
+   "replacement_tickets": [
+    "TK-245826"
+   ]
+  },
+  {
+   "order": "VR881719",
+   "refund_tickets": [
+    "TK-241952",
+    "TK-242935"
+   ],
+   "replacement_tickets": [
+    "TK-242683"
+   ]
+  },
+  {
+   "order": "VR882324",
+   "refund_tickets": [
+    "TK-246121"
+   ],
+   "replacement_tickets": [
+    "TK-246145"
+   ]
+  },
+  {
+   "order": "VR882721",
+   "refund_tickets": [
+    "TK-240869"
+   ],
+   "replacement_tickets": [
+    "TK-240556"
+   ]
+  },
+  {
+   "order": "VR883193",
+   "refund_tickets": [
+    "TK-254666"
+   ],
+   "replacement_tickets": [
+    "TK-253701"
+   ]
+  },
+  {
+   "order": "VR883260",
+   "refund_tickets": [
+    "TK-243578"
+   ],
+   "replacement_tickets": [
+    "TK-242235"
+   ]
+  },
+  {
+   "order": "VR883464",
+   "refund_tickets": [
+    "TK-240438"
+   ],
+   "replacement_tickets": [
+    "TK-240429"
+   ]
+  },
+  {
+   "order": "VR883519",
+   "refund_tickets": [
+    "TK-251403"
+   ],
+   "replacement_tickets": [
+    "TK-250167"
+   ]
+  },
+  {
+   "order": "VR883570",
+   "refund_tickets": [
+    "TK-241951"
+   ],
+   "replacement_tickets": [
+    "TK-242755",
+    "TK-243332"
+   ]
+  },
+  {
+   "order": "VR883589",
+   "refund_tickets": [
+    "TK-241813"
+   ],
+   "replacement_tickets": [
+    "TK-241889",
+    "TK-242395",
+    "TK-242826"
+   ]
+  },
+  {
+   "order": "VR884712",
+   "refund_tickets": [
+    "TK-249898"
+   ],
+   "replacement_tickets": [
+    "TK-250683"
+   ]
+  },
+  {
+   "order": "VR884993",
+   "refund_tickets": [
+    "TK-242635"
+   ],
+   "replacement_tickets": [
+    "TK-242560"
+   ]
+  },
+  {
+   "order": "VR884997",
+   "refund_tickets": [
+    "TK-240677"
+   ],
+   "replacement_tickets": [
+    "TK-240249"
+   ]
+  },
+  {
+   "order": "VR885351",
+   "refund_tickets": [
+    "TK-241552"
+   ],
+   "replacement_tickets": [
+    "TK-242522"
+   ]
+  },
+  {
+   "order": "VR885770",
+   "refund_tickets": [
+    "TK-249036",
+    "TK-249540"
+   ],
+   "replacement_tickets": [
+    "TK-247557"
+   ]
+  },
+  {
+   "order": "VR885941",
+   "refund_tickets": [
+    "TK-252462"
+   ],
+   "replacement_tickets": [
+    "TK-254674"
+   ]
+  },
+  {
+   "order": "VR886458",
+   "refund_tickets": [
+    "TK-242717"
+   ],
+   "replacement_tickets": [
+    "TK-242196",
+    "TK-242306"
+   ]
+  },
+  {
+   "order": "VR886507",
+   "refund_tickets": [
+    "TK-246663"
+   ],
+   "replacement_tickets": [
+    "TK-253749"
+   ]
+  },
+  {
+   "order": "VR886748",
+   "refund_tickets": [
+    "TK-242279",
+    "TK-242463"
+   ],
+   "replacement_tickets": [
+    "TK-242214",
+    "TK-242337"
+   ]
+  },
+  {
+   "order": "VR886803",
+   "refund_tickets": [
+    "TK-245400"
+   ],
+   "replacement_tickets": [
+    "TK-246314"
+   ]
+  },
+  {
+   "order": "VR887413",
+   "refund_tickets": [
+    "TK-253928"
+   ],
+   "replacement_tickets": [
+    "TK-254086"
+   ]
+  },
+  {
+   "order": "VR887745",
+   "refund_tickets": [
+    "TK-244937"
+   ],
+   "replacement_tickets": [
+    "TK-245253"
+   ]
+  },
+  {
+   "order": "VR887801",
+   "refund_tickets": [
+    "TK-243020",
+    "TK-243152"
+   ],
+   "replacement_tickets": [
+    "TK-243165",
+    "TK-243439"
+   ]
+  },
+  {
+   "order": "VR887918",
+   "refund_tickets": [
+    "TK-246269"
+   ],
+   "replacement_tickets": [
+    "TK-246656"
+   ]
+  },
+  {
+   "order": "VR888245",
+   "refund_tickets": [
+    "TK-243422"
+   ],
+   "replacement_tickets": [
+    "TK-244494"
+   ]
+  },
+  {
+   "order": "VR888453",
+   "refund_tickets": [
+    "TK-242478"
+   ],
+   "replacement_tickets": [
+    "TK-242760"
+   ]
+  },
+  {
+   "order": "VR888654",
+   "refund_tickets": [
+    "TK-253395"
+   ],
+   "replacement_tickets": [
+    "TK-254328"
+   ]
+  },
+  {
+   "order": "VR888823",
+   "refund_tickets": [
+    "TK-242317"
+   ],
+   "replacement_tickets": [
+    "TK-243155",
+    "TK-243627"
+   ]
+  },
+  {
+   "order": "VR888967",
+   "refund_tickets": [
+    "TK-243698"
+   ],
+   "replacement_tickets": [
+    "TK-243227",
+    "TK-244735"
+   ]
+  },
+  {
+   "order": "VR889077",
+   "refund_tickets": [
+    "TK-249534"
+   ],
+   "replacement_tickets": [
+    "TK-250296"
+   ]
+  },
+  {
+   "order": "VR889387",
+   "refund_tickets": [
+    "TK-240616",
+    "TK-240691"
+   ],
+   "replacement_tickets": [
+    "TK-241044"
+   ]
+  },
+  {
+   "order": "VR890222",
+   "refund_tickets": [
+    "TK-249230"
+   ],
+   "replacement_tickets": [
+    "TK-249393"
+   ]
+  },
+  {
+   "order": "VR891921",
+   "refund_tickets": [
+    "TK-253837"
+   ],
+   "replacement_tickets": [
+    "TK-252370"
+   ]
+  },
+  {
+   "order": "VR892276",
+   "refund_tickets": [
+    "TK-249119"
+   ],
+   "replacement_tickets": [
+    "TK-249743"
+   ]
+  },
+  {
+   "order": "VR893157",
+   "refund_tickets": [
+    "TK-246634"
+   ],
+   "replacement_tickets": [
+    "TK-247059"
+   ]
+  },
+  {
+   "order": "VR893834",
+   "refund_tickets": [
+    "TK-248479",
+    "TK-248777"
+   ],
+   "replacement_tickets": [
+    "TK-253187"
+   ]
+  },
+  {
+   "order": "VR894168",
+   "refund_tickets": [
+    "TK-251499"
+   ],
+   "replacement_tickets": [
+    "TK-252108"
+   ]
+  },
+  {
+   "order": "VR894305",
+   "refund_tickets": [
+    "TK-247995"
+   ],
+   "replacement_tickets": [
+    "TK-248978"
+   ]
+  },
+  {
+   "order": "VR894604",
+   "refund_tickets": [
+    "TK-251158"
+   ],
+   "replacement_tickets": [
+    "TK-251750"
+   ]
+  },
+  {
+   "order": "VR894627",
+   "refund_tickets": [
+    "TK-244826"
+   ],
+   "replacement_tickets": [
+    "TK-244209"
+   ]
+  },
+  {
+   "order": "VR894666",
+   "refund_tickets": [
+    "TK-247332"
+   ],
+   "replacement_tickets": [
+    "TK-247705"
+   ]
+  },
+  {
+   "order": "VR894759",
+   "refund_tickets": [
+    "TK-248417"
+   ],
+   "replacement_tickets": [
+    "TK-250419"
+   ]
+  },
+  {
+   "order": "VR894971",
+   "refund_tickets": [
+    "TK-242662"
+   ],
+   "replacement_tickets": [
+    "TK-242813"
+   ]
+  },
+  {
+   "order": "VR895014",
+   "refund_tickets": [
+    "TK-250940"
+   ],
+   "replacement_tickets": [
+    "TK-249978"
+   ]
+  },
+  {
+   "order": "VR895383",
+   "refund_tickets": [
+    "TK-247047"
+   ],
+   "replacement_tickets": [
+    "TK-244796"
+   ]
+  },
+  {
+   "order": "VR895500",
+   "refund_tickets": [
+    "TK-251769"
+   ],
+   "replacement_tickets": [
+    "TK-251231"
+   ]
+  },
+  {
+   "order": "VR895980",
+   "refund_tickets": [
+    "TK-250581"
+   ],
+   "replacement_tickets": [
+    "TK-250426"
+   ]
+  },
+  {
+   "order": "VR896187",
+   "refund_tickets": [
+    "TK-241108"
+   ],
+   "replacement_tickets": [
+    "TK-241099"
+   ]
+  },
+  {
+   "order": "VR896224",
+   "refund_tickets": [
+    "TK-242372"
+   ],
+   "replacement_tickets": [
+    "TK-242398"
+   ]
+  },
+  {
+   "order": "VR896390",
+   "refund_tickets": [
+    "TK-243043"
+   ],
+   "replacement_tickets": [
+    "TK-241678"
+   ]
+  },
+  {
+   "order": "VR897301",
+   "refund_tickets": [
+    "TK-250571"
+   ],
+   "replacement_tickets": [
+    "TK-241611"
+   ]
+  },
+  {
+   "order": "VR897347",
+   "refund_tickets": [
+    "TK-249877"
+   ],
+   "replacement_tickets": [
+    "TK-249970"
+   ]
+  },
+  {
+   "order": "VR897564",
+   "refund_tickets": [
+    "TK-251008",
+    "TK-251515"
+   ],
+   "replacement_tickets": [
+    "TK-254474"
+   ]
+  },
+  {
+   "order": "VR897894",
+   "refund_tickets": [
+    "TK-243335"
+   ],
+   "replacement_tickets": [
+    "TK-243241"
+   ]
+  },
+  {
+   "order": "VR898394",
+   "refund_tickets": [
+    "TK-250540"
+   ],
+   "replacement_tickets": [
+    "TK-250158",
+    "TK-251629"
+   ]
+  },
+  {
+   "order": "VR898724",
+   "refund_tickets": [
+    "TK-244738"
+   ],
+   "replacement_tickets": [
+    "TK-248481"
+   ]
+  },
+  {
+   "order": "VR898760",
+   "refund_tickets": [
+    "TK-241969"
+   ],
+   "replacement_tickets": [
+    "TK-242110"
+   ]
+  },
+  {
+   "order": "VR898909",
+   "refund_tickets": [
+    "TK-248150",
+    "TK-248402"
+   ],
+   "replacement_tickets": [
+    "TK-249149"
+   ]
+  },
+  {
+   "order": "VR899099",
+   "refund_tickets": [
+    "TK-246033"
+   ],
+   "replacement_tickets": [
+    "TK-245878"
+   ]
+  },
+  {
+   "order": "VR899176",
+   "refund_tickets": [
+    "TK-245134"
+   ],
+   "replacement_tickets": [
+    "TK-244798"
+   ]
+  },
+  {
+   "order": "VR899504",
+   "refund_tickets": [
+    "TK-244997"
+   ],
+   "replacement_tickets": [
+    "TK-247310"
+   ]
+  },
+  {
+   "order": "VR899693",
+   "refund_tickets": [
+    "TK-248583",
+    "TK-248717",
+    "TK-251421"
+   ],
+   "replacement_tickets": [
+    "TK-250380"
+   ]
+  },
+  {
+   "order": "VR899966",
+   "refund_tickets": [
+    "TK-254503",
+    "TK-254855"
+   ],
+   "replacement_tickets": [
+    "TK-254572"
+   ]
+  },
+  {
+   "order": "VR901034",
+   "refund_tickets": [
+    "TK-244991"
+   ],
+   "replacement_tickets": [
+    "TK-244712"
+   ]
+  },
+  {
+   "order": "VR901066",
+   "refund_tickets": [
+    "TK-253761",
+    "TK-254144"
+   ],
+   "replacement_tickets": [
+    "TK-253599"
+   ]
+  },
+  {
+   "order": "VR901421",
+   "refund_tickets": [
+    "TK-250165"
+   ],
+   "replacement_tickets": [
+    "TK-248428"
+   ]
+  },
+  {
+   "order": "VR901563",
+   "refund_tickets": [
+    "TK-242998"
+   ],
+   "replacement_tickets": [
+    "TK-247432"
+   ]
+  },
+  {
+   "order": "VR901679",
+   "refund_tickets": [
+    "TK-248373"
+   ],
+   "replacement_tickets": [
+    "TK-248209"
+   ]
+  },
+  {
+   "order": "VR901899",
+   "refund_tickets": [
+    "TK-247440"
+   ],
+   "replacement_tickets": [
+    "TK-247287"
+   ]
+  },
+  {
+   "order": "VR902405",
+   "refund_tickets": [
+    "TK-241193",
+    "TK-241494"
+   ],
+   "replacement_tickets": [
+    "TK-241236"
+   ]
+  },
+  {
+   "order": "VR902491",
+   "refund_tickets": [
+    "TK-243772",
+    "TK-244194",
+    "TK-245457"
+   ],
+   "replacement_tickets": [
+    "TK-244809"
+   ]
+  },
+  {
+   "order": "VR902740",
+   "refund_tickets": [
+    "TK-247383"
+   ],
+   "replacement_tickets": [
+    "TK-246286"
+   ]
+  },
+  {
+   "order": "VR904411",
+   "refund_tickets": [
+    "TK-240356"
+   ],
+   "replacement_tickets": [
+    "TK-240382"
+   ]
+  },
+  {
+   "order": "VR904790",
+   "refund_tickets": [
+    "TK-247503"
+   ],
+   "replacement_tickets": [
+    "TK-246849",
+    "TK-248059",
+    "TK-248097",
+    "TK-249450"
+   ]
+  },
+  {
+   "order": "VR905521",
+   "refund_tickets": [
+    "TK-242579"
+   ],
+   "replacement_tickets": [
+    "TK-243362"
+   ]
+  },
+  {
+   "order": "VR906063",
+   "refund_tickets": [
+    "TK-248273"
+   ],
+   "replacement_tickets": [
+    "TK-248637"
+   ]
+  },
+  {
+   "order": "VR906306",
+   "refund_tickets": [
+    "TK-247001"
+   ],
+   "replacement_tickets": [
+    "TK-247436"
+   ]
+  },
+  {
+   "order": "VR906459",
+   "refund_tickets": [
+    "TK-249903"
+   ],
+   "replacement_tickets": [
+    "TK-250339"
+   ]
+  },
+  {
+   "order": "VR906674",
+   "refund_tickets": [
+    "TK-243117"
+   ],
+   "replacement_tickets": [
+    "TK-245370"
+   ]
+  },
+  {
+   "order": "VR907156",
+   "refund_tickets": [
+    "TK-251820"
+   ],
+   "replacement_tickets": [
+    "TK-254578"
+   ]
+  },
+  {
+   "order": "VR907448",
+   "refund_tickets": [
+    "TK-249739"
+   ],
+   "replacement_tickets": [
+    "TK-246745",
+    "TK-248306"
+   ]
+  },
+  {
+   "order": "VR907631",
+   "refund_tickets": [
+    "TK-248512",
+    "TK-248845",
+    "TK-249826"
+   ],
+   "replacement_tickets": [
+    "TK-249322"
+   ]
+  },
+  {
+   "order": "VR907674",
+   "refund_tickets": [
+    "TK-243848"
+   ],
+   "replacement_tickets": [
+    "TK-244415",
+    "TK-245601"
+   ]
+  },
+  {
+   "order": "VR908098",
+   "refund_tickets": [
+    "TK-249354"
+   ],
+   "replacement_tickets": [
+    "TK-250240"
+   ]
+  },
+  {
+   "order": "VR908278",
+   "refund_tickets": [
+    "TK-253357",
+    "TK-254892"
+   ],
+   "replacement_tickets": [
+    "TK-254137"
+   ]
+  },
+  {
+   "order": "VR908943",
+   "refund_tickets": [
+    "TK-243459"
+   ],
+   "replacement_tickets": [
+    "TK-250588"
+   ]
+  },
+  {
+   "order": "VR909104",
+   "refund_tickets": [
+    "TK-249502"
+   ],
+   "replacement_tickets": [
+    "TK-250045"
+   ]
+  },
+  {
+   "order": "VR909157",
+   "refund_tickets": [
+    "TK-247857"
+   ],
+   "replacement_tickets": [
+    "TK-247926"
+   ]
+  },
+  {
+   "order": "VR909192",
+   "refund_tickets": [
+    "TK-251207"
+   ],
+   "replacement_tickets": [
+    "TK-247646"
+   ]
+  },
+  {
+   "order": "VR909414",
+   "refund_tickets": [
+    "TK-246295",
+    "TK-247538"
+   ],
+   "replacement_tickets": [
+    "TK-245983"
+   ]
+  },
+  {
+   "order": "VR909955",
+   "refund_tickets": [
+    "TK-243952",
+    "TK-244457"
+   ],
+   "replacement_tickets": [
+    "TK-244774"
+   ]
+  }
+ ],
+ "csat_out_of_range": 0,
+ "transfer_non_integral": 0,
+ "blank_order_id": 4023,
+ "blank_agent_id": 0,
+ "blank_customer_id": 0,
+ "blank_product_sku": 0,
+ "empty_customer_message": 0,
+ "empty_agent_notes": 0,
+ "invalid_created": 0,
+ "invalid_first_response": 0,
+ "roster_overlaps": 0,
+ "roster_unresolved_any_row": 0,
+ "roster_unresolved_attendance": 0,
+ "orphan_order_id": 0,
+ "orphan_customer_id": 0,
+ "orphan_product_sku": 0,
+ "orphan_agent_id": 0,
+ "canonical_rows": 11875
+}

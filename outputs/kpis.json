@@ -1,0 +1,218 @@
+{
+ "week": "2026-06-22",
+ "volume": 199,
+ "channel_mix": {
+  "chat": 47.24,
+  "email": 34.17,
+  "social": 6.53,
+  "voice": 12.06
+ },
+ "status_mix": {
+  "closed": {
+   "n": 15,
+   "pct": 7.54
+  },
+  "open": {
+   "n": 8,
+   "pct": 4.02
+  },
+  "pending": {
+   "n": 5,
+   "pct": 2.51
+  },
+  "resolved": {
+   "n": 171,
+   "pct": 85.93
+  }
+ },
+ "sla_breaches": {
+  "chat": 8,
+  "email": 4,
+  "social": 1,
+  "voice": 2
+ },
+ "sla_missing": 0,
+ "csat": {
+  "n": 96,
+  "response_rate_pct": 48.24,
+  "mean": 3.312
+ },
+ "contact_cost_inr": {
+  "by_channel": {
+   "chat": 19740,
+   "email": 17680,
+   "social": 3120,
+   "voice": 12480
+  },
+  "total_inr": 53020
+ },
+ "transfer_cost_inr": 6405,
+ "repeat_candidates": 74,
+ "repeat_same_issue": 47,
+ "tier1_agents": 26,
+ "specialist_agents": 18,
+ "unresolved_attendance": [],
+ "group_top_terms": {
+  "Delivery & Shipping | headphones": [
+   "order",
+   "rcvd",
+   "shipped",
+   "checked",
+   "awb"
+  ],
+  "Billing & Payments | earbuds": [
+   "invoice",
+   "diya",
+   "coupon",
+   "says",
+   "order"
+  ],
+  "Audio Quality | earbuds": [
+   "reset",
+   "cx",
+   "audio",
+   "mic",
+   "permissions"
+  ],
+  "Returns & Refunds | watch": [
+   "pickup",
+   "refund",
+   "cx",
+   "checked",
+   "reported"
+  ],
+  "Other | watch": [
+   "cancel",
+   "status",
+   "order",
+   "checked",
+   "nexa"
+  ],
+  "Connectivity | earbuds": [
+   "issue",
+   "device",
+   "reset",
+   "cx",
+   "pulse"
+  ],
+  "Other | earbuds": [
+   "order",
+   "pulse",
+   "invoice",
+   "buds",
+   "pulse buds"
+  ],
+  "Charging & Battery | earbuds": [
+   "case",
+   "cx",
+   "battery",
+   "pulse",
+   "left"
+  ],
+  "App & Firmware | earbuds": [
+   "app",
+   "update",
+   "cx",
+   "cache",
+   "cleared"
+  ],
+  "Delivery & Shipping | earbuds": [
+   "delivered",
+   "cx",
+   "order",
+   "pulse",
+   "courier"
+  ],
+  "Account & Login | earbuds": [
+   "otp",
+   "account",
+   "tried",
+   "login",
+   "otp login"
+  ],
+  "Delivery & Shipping | accessory": [
+   "cx",
+   "received",
+   "order",
+   "wrong",
+   "item"
+  ],
+  "Connectivity | headphones": [
+   "device",
+   "tried",
+   "strata",
+   "headphones",
+   "strata headphones"
+  ],
+  "Delivery & Shipping | watch": [
+   "nexa",
+   "crr",
+   "order",
+   "product",
+   "cx"
+  ],
+  "Returns & Refunds | earbuds": [
+   "refund",
+   "pickup",
+   "checked",
+   "credited",
+   "status"
+  ],
+  "Billing & Payments | watch": [
+   "order",
+   "invoice",
+   "payment",
+   "diya",
+   "created"
+  ],
+  "Returns & Refunds | accessory": [
+   "refund",
+   "pickup",
+   "checked",
+   "urgent refund",
+   "promised"
+  ],
+  "Charging & Battery | watch": [
+   "battery",
+   "test",
+   "adv",
+   "fit",
+   "fit band"
+  ],
+  "Product Enquiry | earbuds": [
+   "query",
+   "cx",
+   "shared",
+   "query answered",
+   "answered"
+  ],
+  "Other | speaker": [
+   "cancel",
+   "app",
+   "order",
+   "shipment status",
+   "chk"
+  ],
+  "Connectivity | speaker": [
+   "vireo",
+   "issue",
+   "advised",
+   "speaker",
+   "wifi"
+  ],
+  "Charging & Battery | headphones": [
+   "battery",
+   "fast",
+   "advised",
+   "issue",
+   "warranty issue"
+  ],
+  "Returns & Refunds | headphones": [
+   "pkp",
+   "refund",
+   "checked",
+   "pkp awb",
+   "pickup"
+  ]
+ }
+}

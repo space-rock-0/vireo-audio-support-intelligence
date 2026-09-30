@@ -1,0 +1,5 @@
+{
+ "paid_api_cost_inr_per_run": 0,
+ "paid_api_cost_inr_per_month_at_650_per_week": 0,
+ "basis": "local rule/TF-IDF path; no paid model calls (D9/D11)"
+}
